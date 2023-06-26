@@ -7,5 +7,6 @@ function piggyTalk(sentence) {
 
 module.exports = piggyTalk;
 
-
-console.log(piggyTalk("hello world"));
+console.log(piggyTalk("I do not need to get a new kitten"));
+console.log(piggyTalk("I am so excited to go to the zoo"));
+console.log(piggyTalk("I love coding in JavaScript"));
