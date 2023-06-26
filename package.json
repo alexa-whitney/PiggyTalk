@@ -1,26 +1,26 @@
 {
     "name": "piggytalk",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "A whimsical Node.js module that takes English sentences and playfully converts them into Pig Latin, adding an oink-tastic twist to your conversations!",
     "main": "index.js",
     "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1"
+        "test": "echo \"Error: no test specified\" && exit 1"
     },
     "repository": {
-      "type": "git",
-      "url": "git+https://github.com/alexa-whitney/PiggyTalk.git"
+        "type": "git",
+        "url": "git+https://github.com/alexa-whitney/PiggyTalk.git"
     },
     "keywords": [
-      "PigLatin",
-      "translator",
-      "fun",
-      "language",
-      "conversion"
+        "PigLatin",
+        "translator",
+        "fun",
+        "language",
+        "conversion"
     ],
     "author": "Alexa Whitney <alexawhitney87@gmail.com>",
     "license": "ISC",
     "bugs": {
-      "url": "https://github.com/alexa-whitney/PiggyTalk/issues"
+        "url": "https://github.com/alexa-whitney/PiggyTalk/issues"
     },
     "homepage": "https://github.com/alexa-whitney/PiggyTalk#readme"
-  }
+}
