@@ -1,6 +1,9 @@
 # PiggyTalk - 🐷💬
 
-![Version](https://img.shields.io/badge/version-1.0.0-blue)
+[![npm version](https://img.shields.io/npm/v/piggytalk.svg)](https://www.npmjs.com/package/piggytalk)
+[![npm downloads](https://img.shields.io/npm/dt/piggytalk.svg)](https://www.npmjs.com/package/piggytalk)
+
+[NPM Package](https://www.npmjs.com/package/piggytalk)
 
 A simple yet oink-citing Node.js module that converts English sentences to Pig Latin. Now you can talk like a pig, or at least in Pig Latin! 🐷
 
@@ -21,7 +24,7 @@ If you want to run the module locally, you can follow these steps:
 3. Run the script with Node.js. For example:
 
 ```bash
-node piggytalk.js
+node index.js
 ```
 
 ## 📖 Usage/Examples
@@ -34,17 +37,13 @@ const piggyTalk = require('piggytalk');
 
 Then, you can convert any English sentence to Pig Latin: 
 
-Input:
+
 ```
 console.log(piggyTalk("I do not need to get a new kitten"));
 console.log(piggyTalk("I am so excited to go to the zoo"));
 console.log(piggyTalk("I love coding in JavaScript"));
 ```
 
-Console Output:
+
 ![Screenshot](https://i.imgur.com/x1chXsU.png)
 
-## NPM
-
-Find PiggyTalk on NPM!
-https://www.npmjs.com/package/piggytalk
