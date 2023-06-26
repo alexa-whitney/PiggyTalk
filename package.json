@@ -1,6 +1,6 @@
 {
     "name": "piggytalk",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "description": "A whimsical Node.js module that takes English sentences and playfully converts them into Pig Latin, adding an oink-tastic twist to your conversations!",
     "main": "index.js",
     "scripts": {
