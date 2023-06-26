@@ -1,9 +1,10 @@
-# PiggyTalk - 🐷💬
+# PiggyTalk
 
 [![npm version](https://img.shields.io/npm/v/piggytalk.svg)](https://www.npmjs.com/package/piggytalk)
 [![npm downloads](https://img.shields.io/npm/dt/piggytalk.svg)](https://www.npmjs.com/package/piggytalk)
 
 [NPM Package](https://www.npmjs.com/package/piggytalk)
+🐷💬
 
 A simple yet oink-citing Node.js module that converts English sentences to Pig Latin. Now you can talk like a pig, or at least in Pig Latin! 🐷
 
