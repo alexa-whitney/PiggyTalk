@@ -43,3 +43,8 @@ console.log(piggyTalk("I love coding in JavaScript"));
 
 Console Output:
 ![Screenshot](https://i.imgur.com/x1chXsU.png)
+
+## NPM
+
+Find PiggyTalk on NPM!
+https://www.npmjs.com/package/piggytalk
