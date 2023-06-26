@@ -12,7 +12,7 @@ A simple yet oink-citing Node.js module that converts English sentences to Pig L
 
 Install PiggyTalk using npm:
 
-```bash
+```shell
 npm install piggytalk
 ```
 
@@ -24,7 +24,7 @@ If you want to run the module locally, you can follow these steps:
 2. Navigate to the repository using your terminal.
 3. Run the script with Node.js. For example:
 
-```bash
+```shell
 node index.js
 ```
 
@@ -32,19 +32,21 @@ node index.js
 
 First, require PiggyTalk in your script:
 
-```bash
+```javascript
 const piggyTalk = require('piggytalk');
 ```
 
 Then, you can convert any English sentence to Pig Latin: 
 
 
-```
+```javascript
 console.log(piggyTalk("I do not need to get a new kitten"));
+// Output: Iay oday otnay eednay otay etgay aay ewnay ittenkay
 console.log(piggyTalk("I am so excited to go to the zoo"));
+// Output: Iay maay osay xcitedeay otay ogay otay hetay oozay
 console.log(piggyTalk("I love coding in JavaScript"));
+// Iay ovelay odingcay niay avaScriptJay
 ```
-
 
 ![Screenshot](https://i.imgur.com/x1chXsU.png)
 
