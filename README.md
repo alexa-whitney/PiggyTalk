@@ -33,9 +33,13 @@ const piggyTalk = require('piggytalk');
 ```
 
 Then, you can convert any English sentence to Pig Latin: 
+
+Input:
 ```
 console.log(piggyTalk("I do not need to get a new kitten"));
 console.log(piggyTalk("I am so excited to go to the zoo"));
 console.log(piggyTalk("I love coding in JavaScript"));
 ```
+
+Console Output:
 ![Screenshot](https://i.imgur.com/x1chXsU.png)
